@@ -1,9 +1,8 @@
 # iOS-Topics
 
 # Навигация
------------
 
-[Паттерны](https://github.com/Alex0Klain/iOS-Topics#паттерны). 
+[Паттерны](https://github.com/Alex0Klain/iOS-Topics#паттерны)  
 [Контроль версий](https://github.com/Alex0Klain/iOS-Topics#контроль-версий)
 
 # Паттерны
